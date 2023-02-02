@@ -1,2 +1,1 @@
-# opendoorchurch
-The website for the Open Door Babtist Church
+website link: https://opendoorbabtistchurch.github.io/opendoorchurch/index.html
